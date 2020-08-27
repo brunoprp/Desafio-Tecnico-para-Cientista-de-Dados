@@ -10,7 +10,7 @@
   
   3\) Realizar vários testes com a retirada e a substituição de dados faltosos, pode haver efeitos nos desempenhos dos modelos com a retirado ou fazendo a substituição dos dados faltosos.
 
-## Exemplos de resultados obtidos, todos os resultados pode ser encontrado [aqui](https://github.com/brunoprp/Desafio-Tecnico-para-Cientista-de-Dados/blob/master/Aprendizagem_de_Maquina/classification.ipynb):
+## Exemplos de resultados obtidos, todos os resultados podem ser encontrados [aqui](https://github.com/brunoprp/Desafio-Tecnico-para-Cientista-de-Dados/blob/master/Aprendizagem_de_Maquina/classification.ipynb):
   ### Classificador Naive Bayes
   
    * Os métodos [Naive Bayes](https://scikit-learn.org/stable/modules/naive_bayes.html) são um conjunto de algoritmos de aprendizagem supervisionada com base na aplicação do teorema de Bayes com a suposição "ingênua" de independência condicional entre cada par de recursos dado o valor da variável de classe. O teorema de Bayes afirma a seguinte relação, dada a variável de classe `y` e o vetor de características dependentes `x_1` a `x_n`. A Variação usada é o [Gaussian Naive Bayes](https://scikit-learn.org/stable/modules/generated/sklearn.naive_bayes.GaussianNB.html#sklearn.naive_bayes.GaussianNB).
